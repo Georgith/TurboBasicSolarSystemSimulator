@@ -31,3 +31,5 @@ note: the "neatend" at the top is the result of another program I wrote which wo
 
 to actually run this you would need the turbobasic runtime whihc ws called tb.exe I beleive and you would do a command line instruction like 
 tb.exe planets.bas or whatever the program name was. tb.exe also had a IDE beeliv eit or not that was pretty could with error tracing and other things. all in DOS alphanumeric windows. If you could find the runtime this would probably run in a dosbox.
+
+apparently there is a german version available at internet archive https://archive.org/details/BorlandTurboBasic1.0German
